@@ -6,7 +6,7 @@ where the input is messy and the output has to be trusted.
 Domains so far: clinical claims, streaming telemetry, live event analytics. The domain
 changes; the hard parts don't.
 
-**Open to backend / data / ML engineering roles**
+**Open to backend / ML engineering roles**
 
 ---
 
