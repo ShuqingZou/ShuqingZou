@@ -12,5 +12,5 @@ changes; the hard parts don't.
 
 #### Elsewhere
 
-- LinkedIn: `https://www.linkedin.com/in/shuqing-zou-84a2a6323`
-- Email: `shuqingzou5@gmail.com`
+- LinkedIn: [shuqing-zou](https://www.linkedin.com/in/shuqing-zou-84a2a6323)
+- Email: shuqingzou5@gmail.com
