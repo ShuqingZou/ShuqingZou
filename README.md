@@ -1,16 +1,16 @@
-## Hi there 👋
+### Shuqing Zou
 
-<!--
-**ShuqingZou/ShuqingZou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend and ML engineer. I build data pipelines and real-time systems, mostly the kind
+where the input is messy and the output has to be trusted.
 
-Here are some ideas to get you started:
+Domains so far: clinical claims, streaming telemetry, live event analytics. The domain
+changes; the hard parts don't.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Open to backend / data / ML engineering roles**
+
+---
+
+#### Elsewhere
+
+- LinkedIn: `https://www.linkedin.com/in/shuqing-zou-84a2a6323`
+- Email: `shuqingzou5@gmail.com`
