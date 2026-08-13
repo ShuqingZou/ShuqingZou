@@ -29,7 +29,7 @@ Bare AWS account to running fleet, via Packer AMI and modular Terraform.
 
 ---
 
-#### Elsewhere
+#### Contact
 
 - LinkedIn: [shuqing-zou](https://www.linkedin.com/in/shuqing-zou-84a2a6323)
 - Email: shuqingzou5@gmail.com
